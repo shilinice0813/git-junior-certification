@@ -4,7 +4,7 @@
 
 ![Fork button](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
 
-点击此项目的 Fork，然后再进行 Clone。
+点击此项目的 Fork，然后再进行 Clone 。
 
 ## 场景一
 
