@@ -1,6 +1,6 @@
 # Git 分支模型认证（初级）
 
-按照**特性分支**进行评估，为验证每个分支及提交，请保留所有分支并推送至远端仓库  。
+按照**特性分支**进行评估，为验证每个分支及提交，请保留所有分支并推送至远端仓库。
 
 ![Fork button](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
 
